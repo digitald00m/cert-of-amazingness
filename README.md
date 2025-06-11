@@ -1,1 +1,1 @@
-https://github.com/digitald00m/cert-of-amazingness.git
+https://github.io/digitald00m/cert-of-amazingness.git
